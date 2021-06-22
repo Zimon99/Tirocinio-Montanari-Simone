@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    height: 30px;
+}
+
+div#navmenu{
+    margin: 10px 1%;
+}
+
+div#navmenu > h1{
+    font-size: x-large;
+}
+
+div#mapid { 
+    float: left;
+    height: 630px;
+    width: 58%;
+    margin: 0px 1%;
+}
+
+div#map3d{
+    float: right;
+    margin: 10px 1%;
+    height: 630px;
+    width: 38%;
+}
+
+div#map3d > h3{
+    margin: 0px;
+    text-align: center;
+}
